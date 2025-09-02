@@ -1,0 +1,5 @@
+:root{ --brand:#6c5ce7; }
+.navbar-brand{ color:var(--brand); }
+.navbar-brand:hover{ color:#5847d4; }
+.btn-brand{ background:var(--brand); color:#fff; }
+.btn-brand:hover{ background:#5847d4; color:#fff; }
