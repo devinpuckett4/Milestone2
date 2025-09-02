@@ -7,7 +7,7 @@
 ---
 
 ## 1) Build Success Spring Boot banner on 8080
-![M2_01_BuildRun]("C:\Users\devin\OneDrive\Pictures\springbootport1.png")
+![Build success](springbootport1.png)
 
 This shows the terminal with Build Success and the Spring Boot banner confirming the app is running on port 8080.
 
